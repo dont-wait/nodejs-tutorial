@@ -1,0 +1,14 @@
+Để kết nối được với db, first quote: connect to mongodb
+how ???
+
+# Một anh tốt bụng đã comment
+1. Download and setup: 
+    npm i mongoose
+    npm i mongodb
+2. Vào C tạo thư mục data chứa db
+    Tại Root ổ đĩa bạn cài đặt tạo folder data, vào data tạo folder db. C:\data\db
+3. Cấu hình mongod
+    Vào C:\Program Files\MongoDB\Server\6.0\bin chạy lệnh mongod
+    Phiên bản nhớ nhớ nhớ chỉnh cho đúng lại trong máy nhen
+4. Thưởng thức dòng chữ xanh: "Connected to MongoDB successfully"
+
